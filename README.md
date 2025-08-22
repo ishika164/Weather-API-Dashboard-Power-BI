@@ -5,6 +5,18 @@ This project visualizes live weather conditions and air quality insights in a cl
 
 ---
 
+## 🎯 Objective
+The objective of this project is to **analyze and visualize real-time weather and air quality data** in an interactive dashboard, enabling users to:
+- Monitor live weather parameters (temperature, humidity, wind speed, pressure).
+- Track and compare **Air Quality Index (AQI)** for multiple pollutants.  
+- View **7-day weather forecasts** for decision-making and planning.  
+- Provide **city-level insights** with dynamic selection and real-time data refresh.  
+- Demonstrate **REST API integration with Power BI** for real-time analytics use cases.  
+
+This project highlights how API-driven automation and data storytelling can be applied to real-world scenarios using Power BI.
+
+---
+
 ## 🚀 Features
 - 🌡 **Live Weather Tracking** – Temperature, Humidity, Wind Speed, Pressure
 - 🍃 **Air Quality Index (AQI)** – with dynamic color indicators (PM2.5, PM10, SO2, CO, NO2, O3)
