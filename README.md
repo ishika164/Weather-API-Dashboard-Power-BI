@@ -38,7 +38,8 @@ This project highlights how API-driven automation and data storytelling can be a
 ---
 
 ## 📸 Dashboard Preview
-![Weather API Dashboard](/)
+![Weather API Dashboard](<img width="1755" height="977" alt="Weather API Dashboard" src="https://github.com/user-attachments/assets/1dfcfe49-ac84-4ed9-bf6c-0e945426482c" />
+)
 
 ---
 
